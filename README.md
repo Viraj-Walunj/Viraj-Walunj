@@ -1,5 +1,5 @@
-## 
-# 👋 Hey, I'm <YOUR NAME>
+
+# 👋 Hey, I'm Viraj Walunj
 
 🎓 3rd-year Engineering student from Pune, India  
 💻 Passionate about **AI**, Sketching,Reading and Full-Stack Web Development  
