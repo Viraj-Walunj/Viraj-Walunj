@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Viraj Walunj
 
-🎓 3rd-year Engineering student from Pune, India  
+🎓 4th-year Engineering student from Pune, India  
 💻 Passionate about **AI**, Sketching,Reading and Full-Stack Web Development  
 🎮 Interested in Designing, Development, and Building Smart/IoT Systems
 
